@@ -7,6 +7,8 @@ public class HashMapTest {
     public static void main(String[] args) {
         HashMap<String, String> map = new HashMap<>();
 
+        // test
+
         map.put("aaa", "AAA");
         map.put("bbb", "BBB");
         map.put("ccc", "CCC");
